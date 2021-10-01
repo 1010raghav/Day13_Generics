@@ -1,0 +1,13 @@
+E:\bidgelabz\DAY13 problems\Day13_practice\Day13_practice\bin\Debug\netcoreapp3.1\Day13_practice.exe
+E:\bidgelabz\DAY13 problems\Day13_practice\Day13_practice\bin\Debug\netcoreapp3.1\Day13_practice.deps.json
+E:\bidgelabz\DAY13 problems\Day13_practice\Day13_practice\bin\Debug\netcoreapp3.1\Day13_practice.runtimeconfig.json
+E:\bidgelabz\DAY13 problems\Day13_practice\Day13_practice\bin\Debug\netcoreapp3.1\Day13_practice.runtimeconfig.dev.json
+E:\bidgelabz\DAY13 problems\Day13_practice\Day13_practice\bin\Debug\netcoreapp3.1\Day13_practice.dll
+E:\bidgelabz\DAY13 problems\Day13_practice\Day13_practice\bin\Debug\netcoreapp3.1\Day13_practice.pdb
+E:\bidgelabz\DAY13 problems\Day13_practice\Day13_practice\obj\Debug\netcoreapp3.1\Day13_practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\bidgelabz\DAY13 problems\Day13_practice\Day13_practice\obj\Debug\netcoreapp3.1\Day13_practice.AssemblyInfoInputs.cache
+E:\bidgelabz\DAY13 problems\Day13_practice\Day13_practice\obj\Debug\netcoreapp3.1\Day13_practice.AssemblyInfo.cs
+E:\bidgelabz\DAY13 problems\Day13_practice\Day13_practice\obj\Debug\netcoreapp3.1\Day13_practice.csproj.CoreCompileInputs.cache
+E:\bidgelabz\DAY13 problems\Day13_practice\Day13_practice\obj\Debug\netcoreapp3.1\Day13_practice.dll
+E:\bidgelabz\DAY13 problems\Day13_practice\Day13_practice\obj\Debug\netcoreapp3.1\Day13_practice.pdb
+E:\bidgelabz\DAY13 problems\Day13_practice\Day13_practice\obj\Debug\netcoreapp3.1\Day13_practice.genruntimeconfig.cache
